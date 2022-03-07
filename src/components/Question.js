@@ -21,7 +21,7 @@ const Question = ({ data, onAnswerUpdate, numberOfQuestions, activeQuestion, onS
   
   const nextClickHandler = (e) => {
     if(selected === '') {
-      return setError('Please select one option!');
+      return setError('Per favore seleziona una opzione!');
     }
     onAnswerUpdate(prevState => [...prevState, { q: data.question, a: selected }]);
     setSelected('');
@@ -46,7 +46,7 @@ const Question = ({ data, onAnswerUpdate, numberOfQuestions, activeQuestion, onS
             ))}
           </div>
           {error && <div className="has-text-danger">{error}</div>}
-          <button className="button is-link is-medium is-fullwidth mt-4" onClick={nextClickHandler}>Next</button>
+          <button className="button is-link is-medium is-fullwidth mt-4" onClick={nextClickHandler}>Prossima</button>
         </div>
       </div>
     </div>
