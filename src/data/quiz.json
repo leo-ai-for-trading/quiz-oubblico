@@ -1,25 +1,92 @@
 {
     "data":[
        {
-           "question":"1) PER FONTE DEL DIRITTO SI INTENDE :",
-           "choices":["A) Ogni atto espressamente indicato dalla Costituzione, idoneo a produrre diritto.",
-            "B) Ogni atto o fatto dal quale originino norme giuridiche.",
-            "C) La legge, i regolamenti, gli usi, con esclusione di altri atti e fatti non indicati dall'art. 1 disp. prel. c.c.."],
-           "answer":"B) Ogni atto o fatto dal quale originino norme giuridiche."
+           "question":"1) Qual è la peculiarità degli intermediari assicurativi rispetto agli altri intermediari finanziari?",
+           "choices":["a) Intermediari assicurativi si dedicano a gestione dei rischi puri",
+            "b) Intermediari assicurativi si dedicano a gestione dei rischi finanziari",
+            "c) Intermediari assicurativi non sono intermediari finanziari",
+            "Nessuna delle precedenti"],
+           "answer":"a) Intermediari assicurativi si dedicano a gestione dei rischi puri"
        },
        {
-            "question":"2) UNA DISPOSIZIONE SI DEFINISCE TASSATIVA:",
-            "choices":["A) Quando concerne il prelievo fiscale.",
-                "B) Quando è irrevocabile.",
-                "C) Quando è inderogabile."],
-            "answer":"C) Quando è inderogabile."
+            "question":"2) Quali sono le peculiarità degli intermediari assicurativi rispetto agli altri intermediari finanziari?",
+            "choices":["a) Gli intermediari assicurativi sono caratterizzati della cosiddetta “inversione del ciclo produttivo” (i ricavi precedono i costi) e si dedicano ai rischi puri",
+                "b) Non vi sono differenze sostanziali",
+                "c) Gli intermediari assicurativi non sono intermediari finanziari",
+                "d) Le imprese assicurative investono in strumenti derivati per la gestione dei rischi finanziari"],
+            "answer":"a) Gli intermediari assicurativi sono caratterizzati della cosiddetta “inversione del ciclo produttivo” (i ricavi precedono i costi) e si dedicano ai rischi puri"
     },
     {
-            "question":"3) IN BASE AL CRITERIO DI COMPETENZA (O DI SEPARAZIONE):",
-            "choices":["A) L'antinomia è risolta facendo riferimento all'organo o all'ente cui è riservato il potere di emanare norme in quella determinata materia",
-                "B) Solo la legge - o un atto avente forza di legge - ha il potere di disciplinare una determinata materia.",
-                "C) La legge prevale sul regolamento governativo sottoordinato."],
-            "answer":"A) L'antinomia è risolta facendo riferimento all'organo o all'ente cui è riservato il potere di emanare norme in quella determinata materia"
+            "question":"3) Il trasferimento delle risorse finanziarie attraverso il circuito indiretto presuppone:",
+            "choices":["a) Che vengano realizzato 2 diversi contratti: uno tra intermediario finanziario e prenditore di fondi, l’altro tra intermediario finanziario e datore di fondi",
+                "b) Che datori e prenditori di fondi esprimano preferenze compatibili",
+                "c) L’inserimento di un intermediario finanziario che permetta al datore e al prenditore di risorse di effettuare direttamente lo scambio",
+                "d) Che lo scambio avvenga attraverso l’emissione di strumenti finanziari che esprimono un rapporto contrattuale diretto tra l’investitore e l’emittente"],
+            "answer":"a) Che vengano realizzato 2 diversi contratti: uno tra intermediario finanziario e prenditore di fondi, l’altro tra intermediario finanziario e datore di fondi"
+    },
+    {
+            "question":"4) Dal punto di vista dei modelli di economicità le SIM dealer/underwriter sono intermediari finanziari orientati prevalentemente:",
+            "choices":["a) Alla formazione di margini da plusvalenze",
+                "b) Alla formazione di margine provvigionale",
+                "c) Formazione di margine di interesse",
+                "d) Formazione di margine assicurativo"],
+            "answer":"a) Alla formazione di margini da plusvalenze"
+    },
+    {
+            "question":"5) Dal punto di vista dei modelli di economicità, le SIM di puro servizio sono intermediari finanziari orientati:",
+            "choices":["a) Formazione margine plusvalenze e provvigionale",
+                "b) Formazione margine provvigionale (o da commissioni)",
+                "c) Formazione margine provvigionale e da interessi",
+                "d) Nessuna delle precedenti"],
+            "answer":"b) Formazione margine provvigionale (o da commissioni)"
+    },
+    {
+            "question":"6) Il rischio operativo per gli intermediari finanziari è:",
+            "choices":["a) Che vengano realizzato 2 diversi contratti: uno tra intermediario finanziario e prenditore di fondi, l’altro tra intermediario finanziario e datore di fondi",
+                "b) Un caso particolare di rischio di regolamento",
+                "c) Un rischio di natura finanziaria legato alla possibile mancata connessione fra flussi di cassa in entrata e uscita",
+                "d) Definibile in via residuale rispetto alle altre categorie di rischio e attiene alla variabilità dei risultati economici legati al verificarsi di eventi non finanziari (malfunzionamento, truffa…) "],
+            "answer":"d) Definibile in via residuale rispetto alle altre categorie di rischio e attiene alla variabilità dei risultati economici legati al verificarsi di eventi non finanziari (malfunzionamento, truffa…) "
+    },
+    {
+            "question":"7) Il leasing finanziario è offerto da:",
+            "choices":["a) esclusivamente da banche",
+                "b) esclusivamente da società specializzate",
+                "c) società di intermediazione mobiliare",
+                "d) nessuna delle precedenti"],
+            "answer":"d) nessuna delle precedenti"
+    },
+    {
+            "question":"8) Basilea 3 apporta alcune innovazioni rispetto all’accordo di Basilea 2, in particolare:",
+            "choices":["a) Maggiore attenzione viene posta nella gestione dei rischi puri, quali i rischi operativi, di mercato e di liquidità",
+                "b) È riformulata la definizione di capitale in un’ottica di rafforzamento patrimoniale. Sono inoltre oggetto di vigilanza la leva finanziaria e la gestione del rischio di liquidità",
+                "c) La vigilanza viene estesa al rischio di liquidità, misurato dalla leva finanziaria ottimale, dal net unstable funding e dal total capital ratio",
+                "d) Il rafforzamento patrimoniale comporta una maggiore necessità di fondi stabili da parte del sistema bancario, che può farvi fronte tramite un incremento della leva finanziaria"],
+            "answer":"b) È riformulata la definizione di capitale in un’ottica di rafforzamento patrimoniale. Sono inoltre oggetto di vigilanza la leva finanziaria e la gestione del rischio di liquidità"
+    },
+    {
+            "question":"9) Il primo pilastro di Basilea 2 riguarda:",
+            "choices":["a) I criteri di calcolo dei requisiti patrimoniali minimi e mira a riformulare la regola dell’8% dell’attivo ponderato per il rischio, rendendola più sensibile al rischio dei singoli prestiti e completandola con ulteriori aggiustamenti per il rischio operativo e di mercato",
+                "b) I criteri di calcolo dei requisiti patrimoniali minimi che sono parametri in ragione dell’8% dell’attivo ponderato per il rischio, a copertura del rischio di credito",
+                "c) I criteri di calcolo dei requisiti patrimoniali minimi che sono parametri in ragione dell’8% dell’attivo ponderato per il rischio, a copertura del rischio di credito e di mercato",
+                "d) I criteri di calcolo dei requisiti patrimoniali minimi e mira a riformulare la regola dell’8% dell’attivo ponderato per il rischio, a copertura del rischio di credito"],
+            "answer":"a) I criteri di calcolo dei requisiti patrimoniali minimi e mira a riformulare la regola dell’8% dell’attivo ponderato per il rischio, rendendola più sensibile al rischio dei singoli prestiti e completandola con ulteriori aggiustamenti per il rischio operativo e di mercato"
+    },
+    {
+            "question":"10) Secondo il primo pilastro dell’accordo di Basilea 2, il patrimonio di vigilanza di una banca deve essere in grado di coprire:",
+            "choices":["a) Che vengano realizzato 2 diversi contratti: uno tra intermediario finanziario e prenditore di fondi, l’altro tra intermediario finanziario e datore di fondi",
+                "b) Che datori e prenditori di fondi esprimano preferenze compatibili",
+                "c) L’inserimento di un intermediario finanziario che permetta al datore e al prenditore di risorse di effettuare direttamente lo scambio",
+                "d) Che lo scambio avvenga attraverso l’emissione di strumenti finanziari che esprimono un rapporto contrattuale diretto tra l’investitore e l’emittente"],
+            "answer":"a) Che vengano realizzato 2 diversi contratti: uno tra intermediario finanziario e prenditore di fondi, l’altro tra intermediario finanziario e datore di fondi"
+    },
+    {
+            "question":"11) In base alla direttiva Solvency II le assicurazioni:",
+            "choices":["a) Devono ragionare in un’ottica di ………..",
+                "b) Devono aprire nuove filiali negli altri paesi dell’UE, pena la revoca della licenza per l’attività assicurativa",
+                "c) Sono sottoposte alla normativa della National Association Insurance Commisioner",
+                "d) Devono risanare i propri requisiti patrimonialicalibrandoli sull’effettivo rischio in una logica simile a quella di Basilea 2"],
+            "answer":"d) Devono risanare i propri requisiti patrimonialicalibrandoli sull’effettivo rischio in una logica simile a quella di Basilea 2"
     }
     ]
 }
