@@ -87,6 +87,326 @@
                 "c) Sono sottoposte alla normativa della National Association Insurance Commisioner",
                 "d) Devono risanare i propri requisiti patrimonialicalibrandoli sull’effettivo rischio in una logica simile a quella di Basilea 2"],
             "answer":"d) Devono risanare i propri requisiti patrimonialicalibrandoli sull’effettivo rischio in una logica simile a quella di Basilea 2"
+    },
+    {
+            "question":"12) Il private banking si rivolge a:",
+            "choices":["a) Imprese di elevata dimensione",
+                "b) Clientela privata",
+                "c) Clientela privata con elevato reddito e/o patrimonio",
+                "d) Imprese di ridotta dimensione "],
+            "answer":"c) Clientela privata con elevato reddito e/o patrimonio"
+    },
+    {
+            "question":"13) Il corporate banking si rivolge a:",
+            "choices":["a) Devono ragionare in un’ottica di ………..",
+                "b) Clientela privata con elevato reddito e/o patrimonio",
+                "c) Imprese di elevata dimensione",
+                "d) Clientela privata con ridotto reddito e patrimonio e imprese di ridotte dimensioni"],
+            "answer":"c) Imprese di elevata dimensione"
+    },
+    {
+            "question":"14) Il saldo finanziario di un’unità economica misura:",
+            "choices":["a) Reddito non consumato",
+                "b) Differenza tra reddito prodotto e investimenti in attività reali",
+                "c) Differenza tra variazione delle attività finanziarie e la variazione delle passività finanziarie",
+                "d) La differenza tra le attività e le passività finanziarie "],
+            "answer":"c) Differenza tra variazione delle attività finanziarie e la variazione delle passività finanziarie"
+    },
+    {
+            "question":"15) Il saldo finanziario di un’unità economica è determinata da:",
+            "choices":["a) La differenza tra risparmio e investimenti reali",
+                "b) La differenza tra variazione delle attività finanziarie e variazioni delle passività finanziarie",
+                "c) Entrambe le precedenti",
+                "d) Devono risanare i propri requisiti patrimonialicalibrandoli sull’effettivo rischio in una logica simile a quella di Basilea 2"],
+            "answer":"b) La differenza tra variazione delle attività finanziarie e variazioni delle passività finanziarie"
+    },
+    {
+            "question":"16) I saldi finanziari rappresentano:",
+            "choices":["a) Un flusso finanziario",
+                "b) Una grandezza patrimoniale",
+                "c) Un costo connesso allo scambio di risorse finanziarie",
+                "d) Devono risanare i propri requisiti patrimonialicalibrandoli sull’effettivo rischio in una logica simile a quella di Basilea 2"],
+            "answer":"b) Una grandezza patrimoniale"
+    },
+    {
+            "question":"17) Tra gli strumenti adottati dalle autorità di vigilanza sul sistema finanziario rientrano gli strumenti di vigilanza strutturale. In che cosa consistono? ",
+            "choices":["a) In strumenti di informazione e di comunicazione che a vario livello possono contribuire a ridurre le asimmetrie informative insite nell’attività finanziaria",
+                "b) In un sistema di autorizzazioni e di interventi discrezionali da parte delle autorità di vigilanza aventi il fine di incidere sulla morfologia del sistema finanziario",
+                "c) Nella fissazione di regole di comportamento per lo più orientate al contenimento del rischio",
+                "d) In interventi volti a prevenire la diffusione e a gestire le situazioni di crisi degli intermediari finanziari"],
+            "answer":"b) In un sistema di autorizzazioni e di interventi discrezionali da parte delle autorità di vigilanza aventi il fine di incidere sulla morfologia del sistema finanziario"
+    },
+    {
+            "question":"18) Secondo il modello organizzativo di vigilanza funzionale, l’attività di vigilanza:",
+            "choices":["a) La differenza tra risparmio e investimenti reali",
+                "b) La differenza tra variazione delle attività finanziarie e variazioni delle passività finanziarie",
+                "c) Fa riferimento all’intermediario indipendentemente dall’attività svolta",
+                "d) Fa riferimento all’attività svolta dall’intermediario indipendentemente da chi la svolge"],
+            "answer":"d) Fa riferimento all’attività svolta dall’intermediario indipendentemente da chi la svolge"
+    },
+    {
+            "question":"19) Gli obiettivi dei controlli di vigilanza sul sistema finanziario sono:",
+            "choices":["a) La stabilità dei prezzi",
+                "b) La stabilità, l’efficienza e la trasparenza del sistema finanziario",
+                "c) Il controllo dei rischi",
+                "d) Lo sviluppo economico "],
+            "answer":"b) La stabilità, l’efficienza e la trasparenza del sistema finanziario"
+    },
+    {
+            "question":"20) Con riferimento agli intermediari bancari, è uno strumento di vigilanza prudenziale:",
+            "choices":["a) L’imposizione di una autorizzazione formale per poter esercitare l’attività bancaria",
+                "b) La previsione di requisiti patrimoniali a fronte dell’assunzione di rischi di mercato / di credito",
+                "c) L’intervento del Fondo Interbancario di Tutela dei Depositi",
+                "d) Devono risanare i propri requisiti patrimonialicalibrandoli sull’effettivo rischio in una logica simile a quella di Basilea 2"],
+            "answer":"b) La previsione di requisiti patrimoniali a fronte dell’assunzione di rischi di mercato / di credito"
+    },
+    {
+            "question":"20) Con riferimento agli intermediari bancari, è uno strumento di vigilanza prudenziale:",
+            "choices":["a) L’imposizione di una autorizzazione formale per poter esercitare l’attività bancaria",
+                "b) La previsione di requisiti patrimoniali a fronte dell’assunzione di rischi di mercato / di credito",
+                "c) L’intervento del Fondo Interbancario di Tutela dei Depositi",
+                "d) Devono risanare i propri requisiti patrimonialicalibrandoli sull’effettivo rischio in una logica simile a quella di Basilea 2"],
+            "answer":"b) La previsione di requisiti patrimoniali a fronte dell’assunzione di rischi di mercato / di credito"
+    },
+    {
+            "question":"21) L’attività di vigilanza della Banca d’Italia si suddivide in:",
+            "choices":["a) Strutturale, operativa, informativa, prudenziale",
+                "b) Strutturale, protettiva, informativa, prudenziale",
+                "c) Protettiva, operativa, informativa, prudenziale ",
+                "d) Devono risanare i propri requisiti patrimonialicalibrandoli sull’effettivo rischio in una logica simile a quella di Basilea 2"],
+            "answer":"b) Strutturale, protettiva, informativa, prudenziale"
+    },
+    {
+            "question":"22) Il rifinanziamento della banca centrale in situazioni di illiquidità degli intermediari finanziari costituisce uno strumento di intervento relativo alla:",
+            "choices":["a) Vigilanza strutturale",
+                "b) Vigilanza informativa",
+                "c) Vigilanza prudenziale",
+                "d) Vigilanza protettiva"],
+            "answer":"d) Vigilanza protettiva"
+    },
+    {
+            "question":"23) Nel sistema finanziario italiano la COVIP è l’autorità di vigilanza:",
+            "choices":["a) Sui fondi pensione",
+                "b) Sui fondi comuni di investimento",
+                "c) Sul mercato assicurativo",
+                "d) Sui mercati mobiliari"],
+            "answer":"a) Sui fondi pensione"
+    },
+    {
+            "question":"24) Nel sistema finanziario italiano, l’ISVAP è l’autorità di vigilanza:",
+            "choices":["a) Sui mercati mobiliari",
+                "b) Sui fondi comuni di investimento",
+                "c) Sui fondi pensione",
+                "d) Sul mercato assicurativo "],
+            "answer":"d) Sul mercato assicurativo "
+    },
+    {
+            "question":"25) Il margine di interesse di una banca è: ",
+            "choices":["a) Differenza tra ricavi netti di servizi e costi operativi",
+                "b) Differenza tra i ricavi collegati alle attività fruttifere e i costi legati alle passività onerose",
+                "c) La somma tra margine di intermediazione e ricavi netti da servizi",
+                "d) Il complesso dei ricavi netti da servizi"],
+            "answer":"b) Differenza tra i ricavi collegati alle attività fruttifere e i costi legati alle passività onerose"
+    },
+    {
+            "question":"26) L’attività di gestione collettiva del risparmio può essere svolta da:",
+            "choices":["a) Banche universali, all’interno dell’apposita divisione",
+                "b) Da SGR, SIM e banche",
+                "c) Da SIM e assicurazioni",
+                "d) Da SGR e SICAV"],
+            "answer":"d) Da SGR e SICAV"
+    },
+    {
+            "question":"27) L’attività di gestione collettiva del risparmio può essere svolta:",
+            "choices":["a) Da banche universali all’interno dell’apposita divisione",
+                "b) Da SIM",
+                "c) Da SGR SICAV e SICAF ",
+                "d) Da banche, SIM, SGR e imprese di assicurazione"],
+            "answer":"c) Da SGR SICAV e SICAF "
+    },
+    {
+            "question":"28) L’MTA è:",
+            "choices":["a) Un mercato Over the counter in cui sono negoziati azioni, obbligazioni convertibili, warrant, diritti di opzione e certificati rappresentativi di quote o azioni OICR",
+                "b) Un sistema di scambi organizzato in cui sono negoziati azioni, obbligazioni convertibili, warrant, diritti di opzione e certificati rappresentativi di quote o azioni OICR",
+                "c) Un mercato regolamentato in cui sono negoziate azioni, obbligazioni convertibili, warrant, diritti di opzione e certificati rappresentativi di quote o di azioni OICR",
+                "d) Nessuna delle precedenti"],
+            "answer":"c) Un mercato regolamentato in cui sono negoziate azioni, obbligazioni convertibili, warrant, diritti di opzione e certificati rappresentativi di quote o di azioni OICR"
+    },
+    {
+            "question":"29) Il factoring è:",
+            "choices":["a) Contratto per cui un’impresa può ottenere servizio amministrativo di gestione crediti, oltre al prestito monetario di media – lunga scadenza rimborsato ratealmente",
+                "b) Contratto per cui si può ottenere servizio amministrativo di gestione crediti oltre all’eventuale smobilizzo crediti commerciali e una garanzia di buon fine dei crediti ceduti",
+                "c) Contratto che prevede possibilità di ottenere disponibilità di un bene dietro presentazione di fatture attestanti compravendita all’intermediario erogatore, contro una serie di canoni periodici",
+                "d) Contratto per cui un’impresa può ottenere anticipo di denaro garantito da pegno merci o crediti "],
+            "answer":"b) Contratto per cui si può ottenere servizio amministrativo di gestione crediti oltre all’eventuale smobilizzo crediti commerciali e una garanzia di buon fine dei crediti ceduti"
+    },
+    {
+            "question":"30) Il factoring è offerto da:",
+            "choices":["a) esclusivamente da banche",
+                "b) esclusivamente da società specializzate",
+                "c) da banche e società specializzate",
+                "d) nessuna delle precedenti"],
+            "answer":"c) da banche e società specializzate"
+    },
+    {
+            "question":"31) Rapporto di intermediazione finanziaria è:",
+            "choices":["a) Rapporto tra stock attività finanziarie e ricchezza nazionale, indica il grado di sviluppo della finanza e presenza rapporti complessi tra unità economiche",
+                "b) Rapporto incremento attività finanziarie e ricchezza nazionale, indica il grado di sviluppo della finanza e presenza rapporti complessi tra unità economiche",
+                "c) Rapporto tra stock attività reali e pil, indica il grado di sviluppo della finanza e presenza rapporti complessi tra unità economiche",
+                "d) Rapporto tra unità finanziarie emesse da intermediari finanziari e totale passività finanziaria (o attività) dei settori utilizzatori, misura il peso dei circuiti indiretti rispetto al fabbisogno totale di unità finali"],
+            "answer":"d) Rapporto tra unità finanziarie emesse da intermediari finanziari e totale passività finanziaria (o attività) dei settori utilizzatori, misura il peso dei circuiti indiretti rispetto al fabbisogno totale di unità finali"
+    },
+    {
+            "question":"32) Economia aperta con scambi con l’estero: ",
+            "choices":["a) Formazione del capitala reale I correlata all’accumulazione risparmio interno S e possiamo avere S < > = I",
+                "b) Formazione capitale reale I vincolata all’accumulazione risparmio interno S e possiamo avere S > = I ",
+                "c) Formazione capitale reale I non è vincolata all’accumulazione risparmio interno S e possiamo avere S < I",
+                "d) Formazione capitale reale I correlata all’accumulazione risparmio interno S e possiamo avere S < I"],
+            "answer":"a) Formazione del capitala reale I correlata all’accumulazione risparmio interno S e possiamo avere S < > = I"
+    },
+    {
+            "question":"33) Nell’ambito del processo di valutazione di un investimento azionario, come sono calcolati i multipli noti come del “P/E” (price earnings) e del “P/BV” (price book value o market-to-book value, rapporto fra prezzo e valore contabile) di un titolo azionario?",
+            "choices":["a) Il P/E è misurato dal rapporto tra il prezzo del titolo oggetto di valutazione e l’utile da società emittente, il P/BV è misurato dal rapporto tra il prezzo del titolo oggetto di valutazione e il patrimonio netto della società emittente",
+                "b) Il P/E è misurato dal rapporto tra il prezzo del titolo oggetto di valutazione e l’utile da società emittente, quest’ultimo a sua volta rapportato al numero delle azioni in circolazione; il P/BV è misurato dal rapporto tra il prezzo del titolo oggetto di valutazione e il patrimonio netto della società emittente, quest’ultimo rapportato al numero delle azioni in circolazione.",
+                "c) Il P/E è misurato dal rapporto tra il prezzo del titolo oggetto di valutazione e l’utile da società emittente, quest’ultimo rapportato al numero delle azioni in circolazione; il P/BV è misurato dal rapporto tra il prezzo del titolo oggetto di valutazione e il capitale sociale della società emittente, quest’ultimo rapportato al numero delle azioni in circolazione",
+                "d) Il P/E è misurato dal rapporto tra il prezzo del titolo oggetto di valutazione e l’utile da società emittente, quest’ultimo rapportato al numero delle azioni in circolazione; il P/BV è misurato dal rapporto tra il prezzo del titolo oggetto di valutazione e il capitale sociale della società emittente."],
+            "answer":"b) Il P/E è misurato dal rapporto tra il prezzo del titolo oggetto di valutazione e l’utile da società emittente, quest’ultimo a sua volta rapportato al numero delle azioni in circolazione; il P/BV è misurato dal rapporto tra il prezzo del titolo oggetto di valutazione e il patrimonio netto della società emittente, quest’ultimo rapportato al numero delle azioni in circolazione."
+    },
+    {
+            "question":"34) Quale delle seguenti obbligazioni è più rischiosa in termini di possibile insolvenza dell’emittente?",
+            "choices":["a) Un’obbligazione con rating B",
+                "b) Un’obbligazione con rating A",
+                "c) Un’obbligazione con rating BB",
+                "d) nessuna delle precedenti"],
+            "answer":"a) Un’obbligazione con rating B"
+    },
+    {
+            "question":"35) Il mercato telematico delle obbligazioni e dei titoli di stato-MOT- gestito da borsa italiana è:",
+            "choices":["a) Un mercato primario destinato all’emissione di obbligazioni e titoli di stato",
+                "b) Un mercato secondario destinato alla negoziazione di obbligazioni e titoli di stato",
+                "c) Un mercato all’ingrosso su cui sono trattati titoli a reddito fisso per lotti minimi e molto elevati",
+                "d) Un mercato primario destinato all’emissione delle sole obbligazioni, perché i titoli di stato sono collocati mediante asta"],
+            "answer":"b) Un mercato secondario destinato alla negoziazione di obbligazioni e titoli di stato"
+    },
+    {
+            "question":"36) Il mercato telematico delle obbligazioni e dei titoli di stato-MOT- gestito da borsa italiana è:",
+            "choices":["a) Un mercato secondario all’ingrosso nel quale sono trattati titoli a reddito fisso per lotti minimi molto elevati",
+                "b) Un mercato secondario destinato alla negoziazione dei soli titoli di stato ",
+                "c) Un mercato secondario destinato alla negoziazione di obbligazioni e titoli di stato",
+                "d) Un mercato primario destinato all’emissione delle sole obbligazioni, perché i titoli di stato sono collocati mediante asta"],
+            "answer":"c) Un mercato secondario destinato alla negoziazione di obbligazioni e titoli di stato"
+    },
+    {
+            "question":"37) Secondo il decreto legislativo n.385 del 1993, cosiddetto testo unico delle leggi in materia bancaria e creditizia) costituisce attività bancaria: ",
+            "choices":["a) L’esercizio del credito",
+                "b) La raccolta del risparmio e l’esercizio del credito quando sono svolti congiuntamente",
+                "c) La raccolta del risparmio e l’emissione di titoli di debito",
+                "d) L’emissione di titoli di debito "],
+            "answer":"b) La raccolta del risparmio e l’esercizio del credito quando sono svolti congiuntamente"
+    },
+    {
+            "question":"38) Dal punto di vista economico, quali delle seguenti funzioni svolge complessivamente la moneta?",
+            "choices":["a) Funzione di mezzo di scambio, di riserva di valore e di unità di conto",
+                "b) Funzione di mezzo di scambio, di strumento di pagamento e di unità di conto",
+                "c) Funzione di strumento di pagamento, di unità di conto e di misurazione del valore relativo dei beni e dei servizi",
+                "d) Funzione di strumento di regolamento delle transizioni, di conservazione del valore nel tempo e di riserva di valore"],
+            "answer":"a) Funzione di mezzo di scambio, di riserva di valore e di unità di conto"
+    },
+    {
+            "question":"39) VAR value-at-risk di attività finanziarie è:",
+            "choices":["a) Perdita massima di valore che attività può riportare in un dato orizzonte temporale ",
+                "b) Perdita medio valore dell’attività che non sarà ecceduta in un certo orizzonte temporale con un dato livello di probabilità",
+                "c) Perdita massima di valore di attività che non sarà ecceduta in un dato orizzonte temporale con un dato livello di probabilità/confidenza",
+                "d) Perdita media di valore di attività che sarà ecceduta in un dato orizzonte temporale con un dato livello di probabilità"],
+            "answer":"c) Perdita massima di valore di attività che non sarà ecceduta in un dato orizzonte temporale con un dato livello di probabilità/confidenza"
+    },
+    {
+            "question":"40) Efficienza semi-forte del mercato finanziario è:",
+            "choices":["a) Stadio efficienza di informazioni in cui i prezzi incorporano info di dominio pubblico e l’effetto di un annuncio di eventi straordinari dovrebbe risultare nullo",
+                "b) Stadio di efficienza di informazioni in cui i prezzi incorporano info pubbliche e in parte info riservate",
+                "c) Stadio di efficienza di informazioni in cui i prezzi incorporano info storiche e in parte info pubbliche",
+                "d) Stadio di efficienza di informazioni in cui i prezzi incorporano info storiche più in parte info pubbliche e l’effetto di un annuncio di eventi straordinari dovrebbe comportare beneficio per investitori istituzionali, banche di investimento e market maker"],
+            "answer":"a) Stadio efficienza di informazioni in cui i prezzi incorporano info di dominio pubblico e l’effetto di un annuncio di eventi straordinari dovrebbe risultare nullo"
+    },
+    {
+            "question":"41) Quale funzione svolge il margine iniziale in un mercato futures versato CC&G?",
+            "choices":["a) Tutelare gli operatori da insolvenze della controparte",
+                "b) Tutelare gli operatori da insolvenze cassa di compensazione ",
+                "c) Tutelare la cassa di compensazione da crisi della domanda ",
+                "d) Tutelare gli operatori da eventuali crisi di liquidità del mercato"],
+            "answer":"a) Tutelare gli operatori da insolvenze della controparte"
+    },
+    {
+            "question":"42) Se un intermediario finanziario ha aspettative al ribasso dei tassi di interesse, quale manovra GAP dovrà fare per beneficiare dell’incremento del margine di interesse? ",
+            "choices":["a) Attività sensibili siano di ammontare pari a passività sensibili",
+                "b) Attività sensibili siano di ammontare superiore a passività sensibili",
+                "c) Attività sensibili siano di ammontare inferiore a passività sensibili",
+                "d) Passività sensibili al netto delle attività sensibili siano di ammontare nullo "],
+            "answer":"c) Attività sensibili siano di ammontare inferiore a passività sensibili"
+    },
+    {
+            "question":"43) Il GAP in un certo orizzonte temporale è dato da: ",
+            "choices":["a) La differenza fra attività sensibili e passività sensibili in quell’orizzonte temporale",
+                "b) La differenza tra passività sensibili e attività sensibili in quell’orizzonte temporale",
+                "c) La differenza fra attività sensibili e attività non sensibili in quell’orizzonte temporale",
+                "d) La differenza fra passività sensibili e passività non sensibili in quell’orizzonte temporale"],
+            "answer":"a) La differenza fra attività sensibili e passività sensibili in quell’orizzonte temporale"
+    },
+    {
+            "question":"44) Se un intermediario finanziario presenta un GAP nullo quali sono gli effetti prodotti da una riduzione dei tassi di interesse?",
+            "choices":["a) La riduzione del margine di interesse",
+                "b) La crescita del ROE a parità di margine d’interesse",
+                "c) La crescita del margine di interesse",
+                "d) Nessuno poiché avere poste attive e passive sensibili di pari importo neutralizza l’impatto negativo connesso alla volatilità dei tassi di interesse"],
+            "answer":"d) Nessuno poiché avere poste attive e passive sensibili di pari importo neutralizza l’impatto negativo connesso alla volatilità dei tassi di interesse"
+    },
+    {
+            "question":"45) L’attività di raccolta fondi a vista ed ogni forma di raccolta collegata all’emissione o alla gestione di mezzi di pagamento può essere svolta: ",
+            "choices":["a) Da banche e imprese private",
+                "b) Dalle banche e dagli altri intermediari finanziari ",
+                "c) Dalle sole banche",
+                "d) Da banche e imprese di assicurazione"],
+            "answer":"c) Dalle sole banche"
+    },
+    {
+            "question":"46) Il prezzo di una valuta in termini di un’altra è chiamato …",
+            "choices":["a) Tasso d’interesse",
+                "b) Tasso di cambio",
+                "c) Tasso di cambio reale",
+                "d) Tutelare gli operatori da eventuali crisi di liquidità del mercato"],
+            "answer":"b) Tasso di cambio"
+    },
+    {
+            "question":"47) Quale dei seguenti è un mercato secondario?",
+            "choices":["Il mercato azionario OTC",
+                "b) L’MTA ",
+                "c) Entrambi i suddetti",
+                "d) Tutelare gli operatori da eventuali crisi di liquidità del mercato"],
+            "answer":"c) Entrambi i suddetti"
+    },
+    {
+            "question":"48) Quale delle seguenti affermazioni circa i mercati ed i titoli finanziari è vera?",
+            "choices":["a) Un’obbligazione è un titolo di lungo termine che promette pagamenti periodici residuali",
+                "b) Un’obbligazione che non paga cedole è detta zero coupon",
+                "c) Tutelare la cassa di compensazione da crisi della domanda ",
+                "c) Un’obbligazione è di lungo termine se ha scadenza di 10 anni o superiore"],
+            "answer":"b) Un’obbligazione che non paga cedole è detta zero coupon"
+    },
+    {
+            "question":"49) Un acquisto di titoli sul mercato aperto da parte della Banca Centrale…",
+            "choices":["a) Diminuisce le attività del pubblico e accresce quelle della banca centrale",
+                "b) Aumenta le attività sia del pubblico che del sistema bancario",
+                "c) Non ha effetti sulle attività del pubblico, ma aumenta quelle della banca centrale",
+                "d) Tutelare gli operatori da eventuali crisi di liquidità del mercato"],
+            "answer":"a) Diminuisce le attività del pubblico e accresce quelle della banca centrale"
+    },
+    {
+            "question":"50) Un aumento delle riserve bancarie:",
+            "choices":["a) Accresce il moltiplicatore monetario",
+                "b) Non interferisce con il moltiplicatore monetario",
+                "c) Diminuisce il moltiplicatore monetario",
+                "d) Tutelare gli operatori da eventuali crisi di liquidità del mercato"],
+            "answer":"a) Accresce il moltiplicatore monetario"
     }
     ]
 }
