@@ -407,6 +407,214 @@
                 "c) Diminuisce il moltiplicatore monetario",
                 "d) Tutelare gli operatori da eventuali crisi di liquidità del mercato"],
             "answer":"a) Accresce il moltiplicatore monetario"
+    },
+    {
+            "question":"51) Il rendimento annuale su un BOT trimestrale che rimborsa 1.000€ e quota 950€ è:",
+            "choices":["a) Circa il 40%",
+                "b) Circa il 5%",
+                "c) Circa il 20%",
+                "d) Tutelare gli operatori da eventuali crisi di liquidità del mercato"],
+            "answer":"c) Circa il 20%"
+    },
+    {
+            "question":"52) Le obbligazioni NON sono classificabili tra gli strumenti di",
+            "choices":["a) di finanziamento",
+                "b) Di raccolta",
+                "c) Con funzione monetaria",
+                "d) Tutelare gli operatori da eventuali crisi di liquidità del mercato"],
+            "answer":"c) Con funzione monetaria"
+    },
+    {
+            "question":"53) Borsa Italiana è:",
+            "choices":["a) Un mercato azionario regolamentato al dettaglio",
+                "b) Un mercato regolamentato al dettaglio",
+                "c) Una società di gestione dei mercati",
+                "d) Tutelare gli operatori da eventuali crisi di liquidità del mercato"],
+            "answer":"c) Una società di gestione dei mercati"
+    },
+    {
+            "question":"54) Con il termine cartolarizzazione si intende:",
+            "choices":["a) Una tecnica finanziaria che permette di trasformare strumenti finanziari trasferibili (obbligazioni) in strumenti finanziari non trasferibili (mutui), realizzando una cessione del credito",
+                "b) Una tecnica finanziaria che permette di trasformare strumenti finanziari non trasferibili (mutui) in strumenti finanziari trasferibili (ABS) realizzando una cessione del credito",
+                "c) Una tecnica finanziaria che permette di trasformare strumenti finanziari non trasferibili (ABS) in strumenti finanziari trasferibili (mutui)",
+                "d) Una qualsiasi cessione del credito avente per oggetto obbligazioni quotate su mercati regolamentati"],
+            "answer":"b) Una tecnica finanziaria che permette di trasformare strumenti finanziari non trasferibili (mutui) in strumenti finanziari trasferibili (ABS) realizzando una cessione del credito"
+    },
+    {
+            "question":"55) Quali sono gli elementi che qualificano un mercato mobiliare organizzato?",
+            "choices":["a) 1 - esistenza di strutture fisiche dedicate; 2 - presenza di intermediari specializzati che intervengono per favorire scambi e 3 - esistenza di procedure specifiche per lo svolgimento degli scambi",
+                "b) 1 - esistenza di strutture fisiche dedicate; 2 - presenza di intermediari specializzati che intervengono per favorire scambi",
+                "c) 1 - presenza di intermediari specializzati che intervengono per favorire scambi e 2 - esistenza di procedure specifiche per lo svolgimento degli scambi",
+                "d) 1- esistenza di broker dealer market maker, 2- presenza di intermediari specializzati che intervengono per favorire scambi e 3 - esistenza di procedure specifiche per lo svolgimento degli scambi"],
+            "answer":"a) 1 - esistenza di strutture fisiche dedicate; 2 - presenza di intermediari specializzati che intervengono per favorire scambi e 3 - esistenza di procedure specifiche per lo svolgimento degli scambi"
+    },
+    {
+            "question":"56) Nell’ambito del Single Supervisor Mechanism, la Banca Centrale Europea:",
+            "choices":["a) Svolge la funzione di vigilanza diretta su tutte le banche europee",
+                "b) Può svolgere la funzione di banca microprudenziale, ossia curarsi degli aspetti di dettaglio solo in seguito a segnalazione specifica da parte dell’European Banking Authorithy",
+                "c) Limitatamente alle banche di rilevanza sistemica, svolge le funzioni di vigilanza ispettiva, strutturale, prudenziale, informativa di trasparenza e protettiva",
+                "d) Non ha nuovi poteri, in quanto la vigilanza sulle banche europee rimane una funzione svolta dalle sole banche centrali nazionali"],
+            "answer":"c) Limitatamente alle banche di rilevanza sistemica, svolge le funzioni di vigilanza ispettiva, strutturale, prudenziale, informativa di trasparenza e protettiva"
+    },
+    {
+            "question":"57) L’utilizzo della forma di moneta elettronica nota come “carta di debito”:",
+            "choices":["a) Comporta un addebito immediato al momento della transazione",
+                "b) Consente di differire nel tempo il momento del regolamento rispetto a quello dello scambio",
+                "c) È finalizzato esclusivamente all’acquisto di beni e servizi presso esercizi commerciali",
+                "d) È possibile solo qualora vi sia disponibile un terminale ATM"],
+            "answer":"a) Comporta un addebito immediato al momento della transazione"
+    },
+    {
+            "question":"58) Quali delle seguenti attività non costituisce un “servizio di investimento”, secondo quanto disposto dal testo unico in materia di intermediazione finanziaria?",
+            "choices":["a) La gestione collettiva di portafogli di investimento per conto terzi",
+                "b) La negoziazione per conto proprio",
+                "c) La ricezione e la trasmissione di ordini",
+                "d) La consulenza in materia di investimenti"],
+            "answer":"a) La gestione collettiva di portafogli di investimento per conto terzi"
+    },
+    {
+            "question":"59) Quali sono le funzioni principali rispettivamente del mercato monetario, dove si negoziano strumenti con durata a breve termine, e dei capitali, dove si negoziano strumenti finanziari a medio-lungo termine?",
+            "choices":["a) Il mercato monetario serve alla gestione della liquidità, quello dei capitali serve per gli investimenti con un ciclo economico di rientro delle risorse più lungo",
+                "b) Il mercato monetario serve alla gestione del rischio di cambio, quello dei capitali a finanziare gli investimenti in immobilizzazioni tecniche",
+                "c) Il mercato monetario e quello dei capitali hanno la stessa funzione",
+                "d) Il mercato monetario serve alla gestione del rischio di tasso a breve e il mercato dei capotali serve alla gestione del rischio di tasso a lungo"],
+            "answer":"a) Il mercato monetario serve alla gestione della liquidità, quello dei capitali serve per gli investimenti con un ciclo economico di rientro delle risorse più lungo"
+    },
+    {
+            "question":"60) A parità di vita residua quale di questi titoli presenta una duration maggiore?",
+            "choices":["a) Un titolo obbligazionario con cedola annuale del 5% e scadenza di 5 anni",
+                "b) Un titolo obbligazionario con cedola annuale del 3% e scadenza di 5 anni",
+                "c) Un titolo obbligazionario con cedola annuale del 7% e scadenza di 5 anni",
+                "d) I tre titoli hanno tutti la stessa duration"],
+            "answer":"b) Un titolo obbligazionario con cedola annuale del 3% e scadenza di 5 anni"
+    },
+    {
+            "question":"61) Uno speculatore ha aspettative di ribasso del prezzo del titolo Telecom, quale azione conferma le sue aspettative:",
+            "choices":["a) Vendita opzione put su telecom",
+                "b) Acquisto di un future su telecom",
+                "c) Diminuisce il moltiplicatore monetario",
+                "d) Tutelare gli operatori da eventuali crisi di liquidità del mercato"],
+            "answer":"b) Acquisto di un future su telecom"
+    },
+    {
+            "question":"62) Si consideri un’opzione PUT europea con prezzo di esercizio pari a 100€ e premio pari a 5€. Posizione assunta è corta (vendita dell’opzione). Giunti alla scadenza il prezzo di mercato del titolo è pari a 101. Cosa accade per il venditore dell’opzione?",
+            "choices":["a) Opzione non esercitata e risultato netto negativo - 4",
+                "b) Opzione non esercitata e risultato netto positivo + 5",
+                "c) Opzione viene esercitata e risultato netto negativo - 4",
+                "d) Opzione viene esercitata e risultato netto positivo + 5"],
+            "answer":"a) Opzione non esercitata e risultato netto negativo - 4"
+    },
+    {
+            "question":"63) La banca Alfa ha un margine di intermediazione di 120 mln di euro, la banca Beta invece ha un margine di intermediazione di 100 mln di euro. Banca Alfa però ha un margine di interesse pari a 80 mln di euro, Beta margine di interesse di 50 mln. Quale delle due banche ha maggiori ricavi da servizi sapendo che i profitti e le perdite da operazioni finanziarie sono nulli per entrambe le banche?",
+            "choices":["a) Banca Alfa",
+                "b) Banca Beta",
+                "c) Hanno esattamente lo stesso livello di ricavi da servizi",
+                "d) Non si può dire date le info disponibili"],
+            "answer":"b) Banca Beta"
+    },
+    {
+            "question":"64) La banca Alfa ha un margine di intermediazione di 120 mln di euro, la banca Beta invece ha un margine di intermediazione di 90 mln di euro. Banca Alfa però ha un margine di interesse pari a 70 mln di euro, Beta margine di interesse di 50 mln. Quale delle due banche ha maggiori ricavi da servizi sapendo che i profitti e le perdite da operazioni finanziarie sono nulli per entrambe le banche?",
+            "choices":["e) Banca Alfa",
+                "f) Banca Beta",
+                "g) Hanno esattamente lo stesso livello di ricavi da servizi",
+                "h) Non si può dire date le info disponibili"],
+            "answer":"e) Banca Alfa"
+    },
+    {
+            "question":"65) Il tasso di cambio EUR/USD a pronti è 1,210. Il tasso interbancario sul dollaro a 3 mesi su base annua è pari al 3%. Il tasso interbancario sull’euro a 3 mesi su base annua è pari al 4%. Tasso di cambio a termine a tre mesi EUR/USD dovrebbe essere pari a:",
+            "choices":["a) 1,2130",
+                "b) 1,2070",
+                "c) 1,2217",
+                "d) 1,1984"],
+            "answer":"b) 1,2070"
+    },
+    {
+            "question":"66) La Spa Alfa ha deliberato un aumento di capitale sociale da attuale 80 a 120 mln di euro. La quotazione del titolo Alfa prima dell’aumento del capitale è di 26 euro, le nuove azioni hanno prezzo di 11 euro e il valore nominale è di 10 euro. Il valore teorico del diritto di opzione è pari a:",
+            "choices":["a) 9 euro",
+                "b) 6 euro",
+                "c) 5 euro",
+                "d) 3 euro"],
+            "answer":"c) 5 euro"
+    },
+    {
+            "question":"67) La Spa Alfa ha deliberato un aumento di capitale sociale dagli attuali 80 a 120 mln di euro, mediante emissione di 4.000.000 nuove azioni ordinarie da assegnare in opzione ai vecchi soci. La quotazione del titolo Alfa prima dell’aumento del capitale è di 26 euro, le nuove azioni hanno prezzo di emissione pari a 11 euro e il valore nominale è di 10 euro. Il valore teorico del diritto di opzione è pari a:",
+            "choices":["e) 5 euro",
+                "f) 6 euro",
+                "g) 3 euro",
+                "h) 9 euro"],
+            "answer":"e) 5 euro"
+    },
+    {
+            "question":"68) La Spa Alfa ha deliberato un aumento di capitale sociale dagli attuali 100 a 160 mln di euro, mediante emissione di 6.000.000 nuove azioni ordinarie da assegnare in opzione ai vecchi soci. La quotazione del titolo Alfa prima dell’aumento del capitale è di 28 euro, le nuove azioni hanno prezzo di emissione pari a 12 euro. Il valore teorico del diritto di opzione è pari a: ",
+            "choices":["e) 22 euro",
+                "f) 6 euro",
+                "g) 3 euro",
+                "h) 9 euro"],
+            "answer":"e) 22 euro"
+    },
+    {
+            "question":"69) La duration di un BTP con vita residua pari a 1 anno:",
+            "choices":["a) È senz’altro superiore a 1",
+                "b) Non si può dire se sia inferiore o superiore a 1 senza conoscere la quotazione del titolo",
+                "c) Èparia1",
+                "d) Nessuna delle precedenti"],
+            "answer":"d) Nessuna delle precedenti"
+    },
+    {
+            "question":"70) La duration di un BTP con vita residua pari a 3 mesi: ",
+            "choices":["a) È pari a 3,0 anni",
+                "b) È inferiore a 3,0 anni , ma ......",
+                "c) È pari a 0,25 anni",
+                "d) È inferiore a 0,25 anni, ma ....."],
+            "answer":"c) È pari a 0,25 anni"
+    },
+    {
+            "question":"71) La duration di un CTZ con una vita residua pari a 1 anno è: ",
+            "choices":["a) È senz’altro superiore a 1",
+                "b) È senz’altro inferiore a 1",
+                "c) È paria 1",
+                "d) Non si può dire se sia inferiore o superiore a 1 senza conoscere la quotazione del titolo"],
+            "answer":"c) È paria 1"
+    },
+    {
+            "question":"72) La differenza tra un CCT e un CTZ è che: ",
+            "choices":["a) Non vi è alcuna differenza. Si tratta di 2 denominazioni alternative del medesimo strumento finanziario",
+                "b) Il CCT ha una scadenza originale media, mentre il CTZ ha una scadenza originaria breve",
+                "c) Il CCT è un titolo a remunerazione variabile, mentre il CTZ ha una remunerazione implicitamente prefissata data dalla differenza fra il prezzo di emissione e il prezzo di rimborso",
+                "d) Nessuna delle precedenti"],
+            "answer":"c) Il CCT è un titolo a remunerazione variabile, mentre il CTZ ha una remunerazione implicitamente prefissata data dalla differenza fra il prezzo di emissione e il prezzo di rimborso"
+    },
+    {
+            "question":"73) La differenza tra un CCT e un BTP è che:",
+            "choices":["a) Il CCT è un titolo con scadenza originaria breve, mentre il BTP ha una scadenza originaria medio-lunga",
+                "b) Il CCT è un titolo a remunerazione variabile, mentre il BTO ha una remunerazione implicitamente prefissata data dalla differenza fra il prezzo di emissione e il prezzo di rimborso",
+                "c) Il CCT ha cedole periodiche variabili, mentre il BTP ha cedole periodiche fisse",
+                "d) Tutelare gli operatori da eventuali crisi di liquidità del mercato"],
+            "answer":"c) Il CCT ha cedole periodiche variabili, mentre il BTP ha cedole periodiche fisse"
+    },
+    {
+            "question":"74) Durante la seduta di borsa del giorno X viene acquistato un contratto futures sul FTSE MIB al prezzo di 16.100 punti indice. Sapendo che il margine inziale è pari al 12% del controvalore e che alla chiusura del giorno X il futures sul FTSE MIB quota 16.300, è possibile affermare che:",
+            "choices":["a) Il margine iniziale è pari a 16.300 e il margine di variazione in X è pari a 1000 euro",
+                "b) Il margine infragiornaliero è pari a 16.100 e il margine di variazione in X è apri a 200 euro",
+                "c) Il margine iniziale è pari a 1.932 e il margine di variazione in X è pari a 200 euro",
+                "d) Il margine iniziale è pari a 9.660 euro e il margine di variazione in X è pari a 1000 euro"],
+            "answer":"d) Il margine iniziale è pari a 9.660 euro e il margine di variazione in X è pari a 1000 euro"
+    },
+    {
+            "question":"75) A fronte di una variazione al rialzo dei tassi di interesse del +1%, qual è la variazione percentuale approssimata del prezzo di un’obbligazione con duration di 7 anni e tasso di rendimento effettivo del 5%? ",
+            "choices":["a) +13,33%",
+                "b) - 13,33%",
+                "c) -6,67%",
+                "d) Non si può dire senza conoscere il livello della cedola dell’obbligazione"],
+            "answer":"c) -6,67%"
+    },
+    {
+            "question":"77) La banca Gamma propone alla propria clientela 2 contratti di mutuo da 100.000 euro, con ammortamento francese di durata decennale e rata mensile: MUTUO A : tasso fisso del 4%, spese istruttori 1.000, TIR 4,22% MUTUO B : tasso fisso del 3,9%, spese istruttori 2.000, TIR 4,35% Quale mutuo e per quale ragione è preferibile da parte di un prenditore di fondi razionale?",
+            "choices":["a) Il mutuo B, perché ha un tasso annuo più basso",
+                "b) Il mutuo A, perché ha spese di istruttoria inferiori",
+                "c) Il mutuo A, perché ha un TIR minore",
+                "d) Non è possibile rispondere sulla base dei dati forniti"],
+            "answer":"c) Il mutuo A, perché ha un TIR minore"
     }
     ]
 }
